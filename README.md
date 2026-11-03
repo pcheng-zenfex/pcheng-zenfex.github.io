@@ -1,2 +1,5 @@
-# pcheng2.github.io
-Peng Cheng's personal homepage
+# Peng Cheng
+
+Peng Cheng's personal homepage.
+
+Visit: [pcheng-zenfex.github.io/pcheng.github.io](https://pcheng-zenfex.github.io/pcheng.github.io/)

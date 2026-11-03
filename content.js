@@ -97,7 +97,7 @@ window.HOMEPAGE = {
       venueShort: "NeurIPS 2023",
       url: "https://arxiv.org/abs/2306.04220",
       resources: [
-        { label: "Code", url: "https://github.com/pcheng2/TSRL" }
+        { label: "Code", url: "https://github.com/pcheng-zenfex/TSRL" }
       ]
     },
     {
