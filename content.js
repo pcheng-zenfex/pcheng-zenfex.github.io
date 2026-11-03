@@ -10,7 +10,7 @@ window.HOMEPAGE = {
   photo: "assets/peng-cheng.jpg",
   bio: [
     "Hi! I am Peng Cheng, a co-founder of Zenfex AI and the head of Zenfex AI Lab.",
-    "I received my Ph.D. from Beijing Jiaotong University, advised by Zhihao Wu. During my Ph.D., I was also a research intern at AIR, Tsinghua University, advised by Xianyuan Zhan. I received my master's degree from the University of Melbourne.",
+    "I received my Ph.D. from Beijing Jiaotong University, advised by Prof.Zhihao Wu. During my Ph.D., I was also a research intern at AIR, Tsinghua University, advised by Prof.Xianyuan Zhan. I received my master's degree from the University of Melbourne.",
     "My research focuses on offline reinforcement learning, model-based offline RL, sample-efficient learning, and representation learning. I am dedicated to bringing cutting-edge decision-making technologies to the physical world. It is a challenging yet exciting endeavor. Feel free to contact me if you are interested in this area."
   ],
   bioLinks: {
