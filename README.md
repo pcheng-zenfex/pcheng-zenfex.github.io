@@ -2,4 +2,4 @@
 
 Peng Cheng's personal homepage.
 
-Visit: [pcheng-zenfex.github.io/pcheng.github.io](https://pcheng-zenfex.github.io/pcheng.github.io/)
+Visit: [pcheng-zenfex.github.io](https://pcheng-zenfex.github.io/)
